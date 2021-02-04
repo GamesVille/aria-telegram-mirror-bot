@@ -26,6 +26,6 @@ module.exports = Object.freeze({
     NAME: "@mirrordrivebot"
   },
   IS_TEAM_DRIVE: true,
-  USE_SERVICE_ACCOUNT: false,
+  USE_SERVICE_ACCOUNT: true,
   INDEX_DOMAIN: "https://drive.mirrorzoneindex.workers.dev/0:/" // add an extra / at the end, for example https://www.gdindex.url/
 });
